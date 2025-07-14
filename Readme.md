@@ -1,13 +1,3 @@
-# استخراج پیام- 1404/04/23 ساعت 12:00 صبح
-
-**Date:** 1404/04/23 ساعت 11:26 صبح
-
-## شما
-
-به صورتی بده که در گیت بزارم به غنوان readme.md
-
-## دستیار
-
 # Multi-Modal Image Search Engine & Google-Style Image Search
 
 This repository contains two implementations of image search systems. The code is provided in two distinct modes:
