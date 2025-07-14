@@ -81,7 +81,7 @@ This repository offers two different code implementations for image search:
    ```bash
    git clone https://github.com/yourusername/multi-modal-image-search.git
    cd multi-modal-image-search
-Set Up a Virtual Environment (Optional but Recommended):
+   Set Up a Virtual Environment (Optional but Recommended):
 
 bash
 python3 -m venv venv
@@ -143,3 +143,8 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Thank you for exploring this repository! Choose the implementation that best fits your application and feel free to provide feedback or contribute.
+
+
+
+
+
